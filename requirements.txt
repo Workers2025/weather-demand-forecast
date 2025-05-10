@@ -3,3 +3,4 @@ requests
 scikit-learn
 scipy
 streamlit
+matplotlib
